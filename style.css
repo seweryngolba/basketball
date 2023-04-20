@@ -11,7 +11,7 @@
 
 .fa-basketball {
   font-size: 96px;
-  color: rgb(182, 118, 0);
+  color: rgb(141, 92, 0);
   animation-name: bounce;
   animation-timing-function: linear;
   animation-duration: 5s;
@@ -19,10 +19,11 @@
 }
 
 h1 {
-  color: rgb(182, 118, 0);
+  color: rgb(141, 92, 0);
   font-size: 32px;
   font-weight: bold;
   letter-spacing: 0.2rem;
+  font-family: Georgia, "Times New Roman", Times, serif;
 }
 
 @keyframes bounce {
